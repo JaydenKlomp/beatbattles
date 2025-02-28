@@ -17,7 +17,7 @@ A real-time **music trivia game** inspired by Kahoot, where players can join lob
 
 ### 1️⃣ **Clone Repository**
 ```sh
-git clone https://github.com/YOUR_USERNAME/beat-battle-royale.git
+git clone https://github.com/JaydenKlomp/beat-battle-royale.git
 cd beat-battle-royale
 ```
 
